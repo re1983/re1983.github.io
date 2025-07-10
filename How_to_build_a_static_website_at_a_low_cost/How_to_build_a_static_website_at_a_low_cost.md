@@ -14,3 +14,10 @@ https://mxroute.com/
 Hugo
 https://gohugo.io/
 
+
+第三步、建立範例程式
+
+
+
+
+第四步、cloudflare設定
