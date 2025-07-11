@@ -20,6 +20,6 @@ https://themes.gohugo.io/
 #範例
 https://github.com/tylersayshi/simple-snipcart-shop
 
-
+這部很難
 
 第四步、cloudflare設定
